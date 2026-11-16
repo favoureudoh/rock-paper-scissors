@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors 🎮
+# Rock Paper Scissors 🎮
 
 A console-based **Vanilla JavaScript** implementation of the classic Rock, Paper, Scissors game. No frameworks, no external dependencies—just pure JavaScript logic running in the browser. 
 
